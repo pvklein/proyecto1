@@ -1,3 +1,3 @@
 <?php
-echo("esto es un prueba de php");
+echo("esto es un prueba guapa de php");
 ?>
